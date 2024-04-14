@@ -140,6 +140,7 @@ Fonction main
       return 0;
     }
 
+On obtient une droite de theta = 135° et un p = 0 qui est alors la droite diagonale descendante de l'image . 
 
 fonctions supplémentaires implémentées mais non utiles au code ci-dessus
 
