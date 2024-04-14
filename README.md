@@ -1,4 +1,5 @@
 # Projet-c-
+On essaie de faire la transformation de Hough à l'image "m1projetcpp2.ppm". L'objectif est de trouver les segments de l'image grâce un algorithme qui change chaque pixel du contour en une caractérisation par une droite (p,theta).
 
 Création de la structure Pixel qui donne la teinte en rouge vert et bleu du pixel    
     
